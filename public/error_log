@@ -1,0 +1,26 @@
+[16-Aug-2023 01:48:31 UTC] PHP Warning:  require(/home/elviraeg/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/elviraeg/public_html/public/index.php on line 34
+[16-Aug-2023 01:48:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/elviraeg/public_html/public/../vendor/autoload.php' (include_path='.:/opt/remi/php80/root/usr/share/pear:/opt/remi/php80/root/usr/share/php:/usr/share/pear:/usr/share/php') in /home/elviraeg/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/elviraeg/public_html/public/index.php on line 34
+[16-Aug-2023 01:48:35 UTC] PHP Warning:  require(/home/elviraeg/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/elviraeg/public_html/public/index.php on line 34
+[16-Aug-2023 01:48:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/elviraeg/public_html/public/../vendor/autoload.php' (include_path='.:/opt/remi/php80/root/usr/share/pear:/opt/remi/php80/root/usr/share/php:/usr/share/pear:/usr/share/php') in /home/elviraeg/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/elviraeg/public_html/public/index.php on line 34
+[16-Aug-2023 01:48:55 UTC] PHP Warning:  require(/home/elviraeg/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/elviraeg/public_html/public/index.php on line 34
+[16-Aug-2023 01:48:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/elviraeg/public_html/public/../vendor/autoload.php' (include_path='.:/opt/remi/php80/root/usr/share/pear:/opt/remi/php80/root/usr/share/php:/usr/share/pear:/usr/share/php') in /home/elviraeg/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/elviraeg/public_html/public/index.php on line 34
+[16-Aug-2023 01:49:35 UTC] PHP Warning:  require(/home/elviraeg/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/elviraeg/public_html/public/index.php on line 34
+[16-Aug-2023 01:49:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/elviraeg/public_html/public/../vendor/autoload.php' (include_path='.:/opt/remi/php80/root/usr/share/pear:/opt/remi/php80/root/usr/share/php:/usr/share/pear:/usr/share/php') in /home/elviraeg/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/elviraeg/public_html/public/index.php on line 34
+[16-Aug-2023 01:49:36 UTC] PHP Warning:  require(/home/elviraeg/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/elviraeg/public_html/public/index.php on line 34
+[16-Aug-2023 01:49:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/elviraeg/public_html/public/../vendor/autoload.php' (include_path='.:/opt/remi/php80/root/usr/share/pear:/opt/remi/php80/root/usr/share/php:/usr/share/pear:/usr/share/php') in /home/elviraeg/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/elviraeg/public_html/public/index.php on line 34
+[26-Apr-2024 20:53:28 UTC] PHP Fatal error:  Cannot use GuzzleHttp\Client as Client because the name is already in use in /home/elviraeg/public_html/app/Utility/SendSMSUtility.php on line 8
